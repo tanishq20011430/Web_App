@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Genius | Smart Content Generator</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="templates/history.html">
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <i class="fas fa-brain"></i>
+            <h1>Content Genius</h1>
+        </div>
+        <ul class="nav-links">
+            <li class="active" data-section="generate">
+                <i class="fas fa-magic"></i>
+                <span>Generate</span>
+            </li>
+            <li data-section="history">
+                <i class="fas fa-history"></i>
+                <span>History</span>
+            </li>
+            <li data-section="analytics">
+                <i class="fas fa-chart-line"></i>
+                <span>Analytics</span>
+            </li>
+        </ul>
+        <div class="sidebar-footer">
+            <button id="themeToggle">
+                <i class="fas fa-moon"></i>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Generate Section -->
+        <section id="generate" class="section active">
+            <div class="section-header">
+                <h2>Generate Content</h2>
+                <p>Enter a URL to generate AI-powered content</p>
+            </div>
+
+            <div class="url-input-container">
+                <div class="input-wrapper">
+                    <i class="fas fa-link"></i>
+                    <input type="url" id="urlInput" placeholder="Enter website URL">
+                    <button id="generateBtn">Generate</button>
+                </div>
+            </div>
+
+            <!-- Loading Animation -->
+            <div id="loadingAnimation" class="loading-container hidden">
+                <div class="loading-spinner"></div>
+                <p>Analyzing content and generating insights...</p>
+            </div>
+
+            <!-- Results Container -->
+            <div id="resultsContainer" class="results-container hidden">
+                <!-- Keywords Section -->
+                <div class="result-section keywords-section">
+                    <div class="section-title">
+                        <i class="fas fa-tags"></i>
+                        <h3>Extracted Keywords</h3>
+                    </div>
+                    <div id="keywordsList" class="keywords-list"></div>
+                </div>
+
+                <!-- Generated Content Section -->
+                <div class="result-section content-section">
+                    <div class="section-title">
+                        <i class="fas fa-file-alt"></i>
+                        <h3>Generated Content</h3>
+                    </div>
+                    <div class="content-actions">
+                        <button id="copyContent" class="action-btn">
+                            <i class="fas fa-copy"></i> Copy
+                        </button>
+                        <button id="downloadContent" class="action-btn">
+                            <i class="fas fa-download"></i> Download
+                        </button>
+                    </div>
+                    <div id="generatedContent" class="content-display"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- History Section -->
+        <section id="history" class="section">
+            <div class="section-header">
+                <h2>Generation History</h2>
+                <div class="history-actions">
+                    <input type="text" id="historySearch" placeholder="Search history...">
+                    <select id="historySort">
+                        <option value="newest">Newest First</option>
+                        <option value="oldest">Oldest First</option>
+                    </select>
+                </div>
+            </div>
+            <div id="historyList" class="history-list"></div>
+        </section>
+
+        <!-- Analytics Section -->
+        <section id="analytics" class="section">
+            <div class="section-header">
+                <h2>Analytics Dashboard</h2>
+            </div>
+            <div class="analytics-grid">
+                <div class="analytics-card">
+                    <h3>Total Generations</h3>
+                    <div id="totalGenerations" class="analytics-number">0</div>
+                </div>
+                <div class="analytics-card">
+                    <h3>Popular Keywords</h3>
+                    <div id="popularKeywords" class="analytics-list"></div>
+                </div>
+                <div class="analytics-card">
+                    <h3>Generation Timeline</h3>
+                    <canvas id="generationChart"></canvas>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Toast Notifications -->
+    <div id="toastContainer" class="toast-container"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <script src="/static/script.js"></script>
+</body>
+</html>

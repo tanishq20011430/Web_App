@@ -1,0 +1,511 @@
+2024-12-28 11:54:04,022 - WARNING -  * Debugger is active!
+2024-12-28 11:54:04,022 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 11:54:38,964 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 11:54:38,964 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 11:54:38,986 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 11:54:43,855 - WARNING -  * Debugger is active!
+2024-12-28 11:54:43,855 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 11:54:46,778 - INFO - Request processed in 0.01 seconds
+2024-12-28 11:54:46,780 - INFO - 127.0.0.1 - - [28/Dec/2024 11:54:46] "GET / HTTP/1.1" 200 -
+2024-12-28 11:54:46,926 - INFO - Request processed in 0.00 seconds
+2024-12-28 11:54:46,926 - INFO - Request processed in 0.00 seconds
+2024-12-28 11:54:46,926 - INFO - 127.0.0.1 - - [28/Dec/2024 11:54:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 11:54:46,926 - INFO - 127.0.0.1 - - [28/Dec/2024 11:54:46] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 11:55:08,984 - INFO - Request processed in 11.07 seconds
+2024-12-28 11:55:08,984 - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:08] "[31m[1mPOST /generate_content HTTP/1.1[0m" 400 -
+2024-12-28 11:59:12,167 - INFO - Request processed in 0.00 seconds
+2024-12-28 11:59:12,168 - INFO - 127.0.0.1 - - [28/Dec/2024 11:59:12] "GET / HTTP/1.1" 200 -
+2024-12-28 11:59:12,193 - INFO - Request processed in 0.00 seconds
+2024-12-28 11:59:12,194 - INFO - 127.0.0.1 - - [28/Dec/2024 11:59:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 11:59:12,194 - INFO - Request processed in 0.00 seconds
+2024-12-28 11:59:12,194 - INFO - 127.0.0.1 - - [28/Dec/2024 11:59:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 11:59:25,367 - INFO - Request processed in 7.18 seconds
+2024-12-28 11:59:25,367 - INFO - 127.0.0.1 - - [28/Dec/2024 11:59:25] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 11:59:42,032 - INFO -  * Detected change in 'd:\\webscraping-main\\webscraping-main\\auto_gen.py', reloading
+2024-12-28 11:59:42,038 - INFO -  * Detected change in 'd:\\webscraping-main\\webscraping-main\\auto_gen.py', reloading
+2024-12-28 12:00:14,186 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 12:00:14,187 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 12:00:14,196 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 12:00:17,052 - WARNING -  * Debugger is active!
+2024-12-28 12:00:17,057 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 12:00:27,816 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:00:27,816 - INFO - 127.0.0.1 - - [28/Dec/2024 12:00:27] "GET / HTTP/1.1" 200 -
+2024-12-28 12:00:27,840 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:00:27,843 - INFO - 127.0.0.1 - - [28/Dec/2024 12:00:27] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-28 12:00:27,843 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:00:27,844 - INFO - 127.0.0.1 - - [28/Dec/2024 12:00:27] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:01:10,138 - INFO - Request processed in 6.27 seconds
+2024-12-28 12:01:10,139 - INFO - 127.0.0.1 - - [28/Dec/2024 12:01:10] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:03:21,754 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:03:21,754 - INFO - 127.0.0.1 - - [28/Dec/2024 12:03:21] "GET / HTTP/1.1" 200 -
+2024-12-28 12:03:21,785 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:03:21,785 - INFO - 127.0.0.1 - - [28/Dec/2024 12:03:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:03:21,828 - INFO - Request processed in 0.04 seconds
+2024-12-28 12:03:21,828 - INFO - 127.0.0.1 - - [28/Dec/2024 12:03:21] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:03:21,906 - ERROR - Error fetching history: history.html
+2024-12-28 12:03:21,906 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:03:21,907 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:03:21,907 - INFO - 127.0.0.1 - - [28/Dec/2024 12:03:21] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:03:21,907 - INFO - 127.0.0.1 - - [28/Dec/2024 12:03:21] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:03:35,887 - INFO - Request processed in 5.07 seconds
+2024-12-28 12:03:35,887 - INFO - 127.0.0.1 - - [28/Dec/2024 12:03:35] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:03:35,899 - ERROR - Error fetching history: history.html
+2024-12-28 12:03:35,899 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:03:35,899 - INFO - 127.0.0.1 - - [28/Dec/2024 12:03:35] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:04:45,125 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 12:04:45,125 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 12:04:45,125 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 12:04:48,140 - WARNING -  * Debugger is active!
+2024-12-28 12:04:48,144 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 12:04:50,399 - INFO - Request processed in 0.03 seconds
+2024-12-28 12:04:50,399 - INFO - 127.0.0.1 - - [28/Dec/2024 12:04:50] "GET / HTTP/1.1" 200 -
+2024-12-28 12:04:50,437 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:04:50,437 - INFO - 127.0.0.1 - - [28/Dec/2024 12:04:50] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-28 12:04:50,440 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:04:50,440 - INFO - 127.0.0.1 - - [28/Dec/2024 12:04:50] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:04:50,525 - ERROR - Error fetching history: history.html
+2024-12-28 12:04:50,525 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:04:50,525 - INFO - 127.0.0.1 - - [28/Dec/2024 12:04:50] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:04:50,527 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:04:50,527 - INFO - 127.0.0.1 - - [28/Dec/2024 12:04:50] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:05:09,832 - INFO - Request processed in 6.32 seconds
+2024-12-28 12:05:09,832 - INFO - 127.0.0.1 - - [28/Dec/2024 12:05:09] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:05:09,856 - ERROR - Error fetching history: history.html
+2024-12-28 12:05:09,856 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:05:09,857 - INFO - 127.0.0.1 - - [28/Dec/2024 12:05:09] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:06:48,187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 12:06:48,187 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 12:06:48,205 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 12:06:51,173 - WARNING -  * Debugger is active!
+2024-12-28 12:06:51,173 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 12:06:59,465 - INFO - Request processed in 0.03 seconds
+2024-12-28 12:06:59,465 - INFO - 127.0.0.1 - - [28/Dec/2024 12:06:59] "GET / HTTP/1.1" 200 -
+2024-12-28 12:06:59,490 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:06:59,490 - INFO - 127.0.0.1 - - [28/Dec/2024 12:06:59] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-12-28 12:06:59,557 - INFO - Request processed in 0.03 seconds
+2024-12-28 12:06:59,557 - INFO - 127.0.0.1 - - [28/Dec/2024 12:06:59] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:08:02,257 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:02,257 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:02] "GET / HTTP/1.1" 200 -
+2024-12-28 12:08:02,286 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:02,286 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:02] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-12-28 12:08:02,289 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:02,289 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:02] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:08:02,390 - ERROR - Error fetching history: history.html
+2024-12-28 12:08:02,390 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:02,390 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:02,390 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:02] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:08:02,391 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:02] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:08:44,093 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:44,093 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:44] "GET / HTTP/1.1" 200 -
+2024-12-28 12:08:44,118 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:44,119 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:08:44,119 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:44,119 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:44] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:08:44,212 - ERROR - Error fetching history: history.html
+2024-12-28 12:08:44,212 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:44,212 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:44] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:08:44,213 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:08:44,214 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:44] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:08:54,534 - INFO - Request processed in 6.46 seconds
+2024-12-28 12:08:54,534 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:54] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:08:54,570 - ERROR - Error fetching history: history.html
+2024-12-28 12:08:54,570 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:08:54,570 - INFO - 127.0.0.1 - - [28/Dec/2024 12:08:54] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:09:11,860 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:11,860 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:11] "GET / HTTP/1.1" 200 -
+2024-12-28 12:09:11,884 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:11,885 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:09:11,905 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:09:11,905 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:11] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:09:15,307 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:15,307 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:15] "GET / HTTP/1.1" 200 -
+2024-12-28 12:09:15,336 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:15,338 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:09:15,339 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:15,339 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:15] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:09:41,549 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:41,549 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:41] "GET / HTTP/1.1" 200 -
+2024-12-28 12:09:41,571 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:41,571 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:09:41,574 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:41,574 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:41] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:09:41,633 - ERROR - Error fetching history: history.html
+2024-12-28 12:09:41,633 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:41,633 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:41] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:09:41,636 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:09:41,636 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:41] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:09:58,296 - INFO - Request processed in 5.49 seconds
+2024-12-28 12:09:58,296 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:58] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:09:58,330 - ERROR - Error fetching history: history.html
+2024-12-28 12:09:58,331 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:09:58,331 - INFO - 127.0.0.1 - - [28/Dec/2024 12:09:58] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:14:15,517 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:14:15,517 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:15] "GET / HTTP/1.1" 200 -
+2024-12-28 12:14:15,549 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:14:15,549 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:14:15,625 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:14:15,625 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:15] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:14:15,824 - ERROR - Error fetching history: history.html
+2024-12-28 12:14:15,824 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:14:15,825 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:15] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:14:15,827 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:14:15,827 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:15] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:14:26,273 - INFO - Request processed in 5.84 seconds
+2024-12-28 12:14:26,273 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:26] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:14:26,280 - ERROR - Error fetching history: history.html
+2024-12-28 12:14:26,280 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:14:26,280 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:26] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:14:54,871 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:14:54,871 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:54] "GET / HTTP/1.1" 200 -
+2024-12-28 12:14:54,906 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:14:54,907 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:14:54,907 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:54] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:14:54,907 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:14:55,015 - ERROR - Error fetching history: history.html
+2024-12-28 12:14:55,015 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:14:55,015 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:55] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:14:55,016 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:14:55,016 - INFO - 127.0.0.1 - - [28/Dec/2024 12:14:55] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:15:19,187 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:15:19,187 - INFO - 127.0.0.1 - - [28/Dec/2024 12:15:19] "GET / HTTP/1.1" 200 -
+2024-12-28 12:15:19,214 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:15:19,216 - INFO - 127.0.0.1 - - [28/Dec/2024 12:15:19] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:15:19,226 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:15:19,226 - INFO - 127.0.0.1 - - [28/Dec/2024 12:15:19] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-28 12:15:19,303 - ERROR - Error fetching history: history.html
+2024-12-28 12:15:19,303 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:15:19,303 - INFO - 127.0.0.1 - - [28/Dec/2024 12:15:19] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:15:19,305 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:15:19,306 - INFO - 127.0.0.1 - - [28/Dec/2024 12:15:19] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:15:28,358 - INFO - Request processed in 5.48 seconds
+2024-12-28 12:15:28,358 - INFO - 127.0.0.1 - - [28/Dec/2024 12:15:28] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:15:28,377 - ERROR - Error fetching history: history.html
+2024-12-28 12:15:28,377 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:15:28,377 - INFO - 127.0.0.1 - - [28/Dec/2024 12:15:28] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:17:33,216 - INFO - Request processed in 0.03 seconds
+2024-12-28 12:17:33,216 - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:33] "GET / HTTP/1.1" 200 -
+2024-12-28 12:17:33,250 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:17:33,250 - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:33] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-28 12:17:33,279 - INFO - Request processed in 0.04 seconds
+2024-12-28 12:17:33,283 - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:33] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:17:33,374 - ERROR - Error fetching history: history.html
+2024-12-28 12:17:33,374 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:17:33,374 - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:33] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:17:33,374 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:17:33,374 - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:33] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:17:42,362 - INFO - Request processed in 5.40 seconds
+2024-12-28 12:17:42,362 - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:42] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:17:42,391 - ERROR - Error fetching history: history.html
+2024-12-28 12:17:42,392 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:17:42,392 - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:42] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:28:30,207 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:28:30,208 - INFO - 127.0.0.1 - - [28/Dec/2024 12:28:30] "GET / HTTP/1.1" 200 -
+2024-12-28 12:28:30,235 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:28:30,236 - INFO - 127.0.0.1 - - [28/Dec/2024 12:28:30] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-12-28 12:28:30,257 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:28:30,257 - INFO - 127.0.0.1 - - [28/Dec/2024 12:28:30] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:28:30,443 - ERROR - Error fetching history: history.html
+2024-12-28 12:28:30,443 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:28:30,443 - INFO - 127.0.0.1 - - [28/Dec/2024 12:28:30] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:28:30,445 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:28:30,446 - INFO - 127.0.0.1 - - [28/Dec/2024 12:28:30] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:30:27,593 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:30:27,593 - INFO - 127.0.0.1 - - [28/Dec/2024 12:30:27] "GET / HTTP/1.1" 200 -
+2024-12-28 12:30:27,619 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:30:27,619 - INFO - 127.0.0.1 - - [28/Dec/2024 12:30:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:30:27,619 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:30:27,623 - INFO - 127.0.0.1 - - [28/Dec/2024 12:30:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:30:27,714 - ERROR - Error fetching history: history.html
+2024-12-28 12:30:27,714 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:30:27,714 - INFO - 127.0.0.1 - - [28/Dec/2024 12:30:27] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:30:27,716 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:30:27,716 - INFO - 127.0.0.1 - - [28/Dec/2024 12:30:27] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:31:33,045 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:31:33,045 - INFO - 127.0.0.1 - - [28/Dec/2024 12:31:33] "GET / HTTP/1.1" 200 -
+2024-12-28 12:31:33,061 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:31:33,061 - INFO - 127.0.0.1 - - [28/Dec/2024 12:31:33] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-28 12:31:33,113 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:31:33,113 - INFO - 127.0.0.1 - - [28/Dec/2024 12:31:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:31:33,177 - ERROR - Error fetching history: history.html
+2024-12-28 12:31:33,178 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:31:33,178 - INFO - 127.0.0.1 - - [28/Dec/2024 12:31:33] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:31:33,180 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:31:33,181 - INFO - 127.0.0.1 - - [28/Dec/2024 12:31:33] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:31:44,201 - INFO - Request processed in 6.83 seconds
+2024-12-28 12:31:44,201 - INFO - 127.0.0.1 - - [28/Dec/2024 12:31:44] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:31:44,231 - ERROR - Error fetching history: history.html
+2024-12-28 12:31:44,231 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:31:44,232 - INFO - 127.0.0.1 - - [28/Dec/2024 12:31:44] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:36:01,858 - INFO -  * Detected change in 'd:\\webscraping-main\\webscraping-main\\auto_gen.py', reloading
+2024-12-28 12:36:01,864 - INFO -  * Detected change in 'd:\\webscraping-main\\webscraping-main\\auto_gen.py', reloading
+2024-12-28 12:36:04,905 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 12:36:11,948 - WARNING -  * Debugger is active!
+2024-12-28 12:36:11,958 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 12:39:09,051 - INFO -  * Detected change in 'd:\\webscraping-main\\webscraping-main\\auto_gen.py', reloading
+2024-12-28 12:39:09,854 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 12:39:14,192 - WARNING -  * Debugger is active!
+2024-12-28 12:39:14,197 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 12:40:47,273 - INFO -  * Detected change in 'd:\\webscraping-main\\webscraping-main\\auto_gen.py', reloading
+2024-12-28 12:40:47,273 - INFO -  * Detected change in 'd:\\webscraping-main\\webscraping-main\\auto_gen.py', reloading
+2024-12-28 12:40:47,924 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 12:40:59,218 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 12:40:59,218 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 12:40:59,236 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 12:41:02,272 - WARNING -  * Debugger is active!
+2024-12-28 12:41:02,272 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 12:41:08,650 - INFO - Request processed in 0.03 seconds
+2024-12-28 12:41:08,650 - INFO - 127.0.0.1 - - [28/Dec/2024 12:41:08] "GET / HTTP/1.1" 200 -
+2024-12-28 12:41:08,678 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:41:08,679 - INFO - 127.0.0.1 - - [28/Dec/2024 12:41:08] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2024-12-28 12:41:13,542 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:41:13,542 - INFO - 127.0.0.1 - - [28/Dec/2024 12:41:13] "GET / HTTP/1.1" 200 -
+2024-12-28 12:41:13,567 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:41:13,567 - INFO - 127.0.0.1 - - [28/Dec/2024 12:41:13] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2024-12-28 12:42:18,262 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:42:18,262 - INFO - 127.0.0.1 - - [28/Dec/2024 12:42:18] "GET / HTTP/1.1" 200 -
+2024-12-28 12:42:18,288 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:42:18,288 - INFO - 127.0.0.1 - - [28/Dec/2024 12:42:18] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:42:18,369 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:42:18,369 - ERROR - Error fetching history: history.html
+2024-12-28 12:42:18,370 - INFO - 127.0.0.1 - - [28/Dec/2024 12:42:18] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:42:18,370 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:42:18,370 - INFO - 127.0.0.1 - - [28/Dec/2024 12:42:18] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:42:41,712 - INFO - Request processed in 6.86 seconds
+2024-12-28 12:42:41,712 - INFO - 127.0.0.1 - - [28/Dec/2024 12:42:41] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:42:41,737 - ERROR - Error fetching history: history.html
+2024-12-28 12:42:41,737 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:42:41,737 - INFO - 127.0.0.1 - - [28/Dec/2024 12:42:41] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:43:13,282 - INFO - Request processed in 6.44 seconds
+2024-12-28 12:43:13,283 - INFO - 127.0.0.1 - - [28/Dec/2024 12:43:13] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:43:13,304 - ERROR - Error fetching history: history.html
+2024-12-28 12:43:13,304 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:43:13,304 - INFO - 127.0.0.1 - - [28/Dec/2024 12:43:13] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:47:16,476 - INFO - Request processed in 0.03 seconds
+2024-12-28 12:47:16,476 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:16] "GET / HTTP/1.1" 200 -
+2024-12-28 12:47:16,500 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:47:16,500 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:16] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:47:16,517 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:47:16,517 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:16] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-28 12:47:16,750 - ERROR - Error fetching history: history.html
+2024-12-28 12:47:16,750 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:47:16,750 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:16] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:47:16,752 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:47:16,752 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:16] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:47:21,154 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:47:21,155 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:21] "GET / HTTP/1.1" 200 -
+2024-12-28 12:47:21,180 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:47:21,181 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:47:21,181 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:47:21,181 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:21] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:47:21,247 - ERROR - Error fetching history: history.html
+2024-12-28 12:47:21,247 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:47:21,247 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:21] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:47:21,247 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:47:21,248 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:21] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:47:31,563 - INFO - Request processed in 6.94 seconds
+2024-12-28 12:47:31,564 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:31] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:47:31,584 - ERROR - Error fetching history: history.html
+2024-12-28 12:47:31,584 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:47:31,584 - INFO - 127.0.0.1 - - [28/Dec/2024 12:47:31] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:50:06,799 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:50:06,799 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:06] "GET / HTTP/1.1" 200 -
+2024-12-28 12:50:06,827 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:50:06,828 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:50:06,829 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:50:06,829 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:50:07,063 - ERROR - Error fetching history: history.html
+2024-12-28 12:50:07,064 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:50:07,064 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:50:07,064 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:07] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:50:07,065 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:07] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:50:08,337 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:50:08,338 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:08] "GET / HTTP/1.1" 200 -
+2024-12-28 12:50:08,361 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:50:08,362 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:50:08,363 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:50:08,363 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:50:08,434 - ERROR - Error fetching history: history.html
+2024-12-28 12:50:08,435 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:50:08,435 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:08] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:50:08,437 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:50:08,438 - INFO - 127.0.0.1 - - [28/Dec/2024 12:50:08] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:51:05,567 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:05,567 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:05] "GET / HTTP/1.1" 200 -
+2024-12-28 12:51:05,604 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:05,604 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:51:05,606 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:05,606 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:05] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:51:05,706 - ERROR - Error fetching history: history.html
+2024-12-28 12:51:05,706 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:05,707 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:05,707 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:05] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:51:05,708 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:05] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:51:06,499 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:06,500 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:06] "GET / HTTP/1.1" 200 -
+2024-12-28 12:51:06,533 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:06,535 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:51:06,535 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:06,536 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:51:06,636 - ERROR - Error fetching history: history.html
+2024-12-28 12:51:06,636 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:06,636 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:06] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:51:06,637 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:06,637 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:06] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:51:34,998 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:34,998 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:34] "GET / HTTP/1.1" 200 -
+2024-12-28 12:51:35,030 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:35,030 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:51:35,037 - INFO - Request processed in 0.02 seconds
+2024-12-28 12:51:35,037 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:35] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-28 12:51:35,110 - ERROR - Error fetching history: history.html
+2024-12-28 12:51:35,110 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:35,110 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:35] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:51:35,112 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:51:35,112 - INFO - 127.0.0.1 - - [28/Dec/2024 12:51:35] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:52:05,986 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:05,986 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:05] "GET / HTTP/1.1" 200 -
+2024-12-28 12:52:06,016 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:06,017 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:52:06,018 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:06,019 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:52:06,104 - ERROR - Error fetching history: history.html
+2024-12-28 12:52:06,105 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:06,105 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:06] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:52:06,106 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:06,106 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:06] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:52:07,441 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:07,442 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:07] "GET / HTTP/1.1" 200 -
+2024-12-28 12:52:07,466 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:07,467 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:52:07,467 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:07,467 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:52:07,541 - ERROR - Error fetching history: history.html
+2024-12-28 12:52:07,541 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:07,541 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:07] "[35m[1mGET /history?page=1 HTTP/1.1[0m" 500 -
+2024-12-28 12:52:07,542 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:07,542 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:07] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:52:40,218 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:40,218 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:40] "GET / HTTP/1.1" 200 -
+2024-12-28 12:52:40,244 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:40,244 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:52:40,270 - INFO - Request processed in 0.03 seconds
+2024-12-28 12:52:40,270 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:40] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:52:41,010 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:41,010 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:41] "GET / HTTP/1.1" 200 -
+2024-12-28 12:52:41,030 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:41,030 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:52:41,035 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:52:41,035 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:41] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 12:52:55,303 - INFO - Request processed in 7.65 seconds
+2024-12-28 12:52:55,305 - INFO - 127.0.0.1 - - [28/Dec/2024 12:52:55] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:55:44,960 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:55:44,960 - INFO - 127.0.0.1 - - [28/Dec/2024 12:55:44] "GET / HTTP/1.1" 200 -
+2024-12-28 12:55:44,990 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:55:44,990 - INFO - 127.0.0.1 - - [28/Dec/2024 12:55:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 12:55:45,055 - INFO - Request processed in 0.03 seconds
+2024-12-28 12:55:45,055 - INFO - 127.0.0.1 - - [28/Dec/2024 12:55:45] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 12:55:46,140 - ERROR - Error fetching history: history.html
+2024-12-28 12:55:46,140 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:55:46,140 - INFO - 127.0.0.1 - - [28/Dec/2024 12:55:46] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:56:08,988 - INFO - Request processed in 7.15 seconds
+2024-12-28 12:56:08,988 - INFO - 127.0.0.1 - - [28/Dec/2024 12:56:08] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 12:56:26,640 - ERROR - Error fetching history: history.html
+2024-12-28 12:56:26,640 - INFO - Request processed in 0.01 seconds
+2024-12-28 12:56:26,640 - INFO - 127.0.0.1 - - [28/Dec/2024 12:56:26] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:56:28,651 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:56:28,651 - INFO - 127.0.0.1 - - [28/Dec/2024 12:56:28] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:56:32,579 - ERROR - Error fetching history: history.html
+2024-12-28 12:56:32,579 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:56:32,579 - INFO - 127.0.0.1 - - [28/Dec/2024 12:56:32] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:56:42,523 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:56:42,524 - INFO - 127.0.0.1 - - [28/Dec/2024 12:56:42] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 12:56:46,173 - ERROR - Error fetching history: history.html
+2024-12-28 12:56:46,173 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:56:46,173 - INFO - 127.0.0.1 - - [28/Dec/2024 12:56:46] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 12:56:50,469 - ERROR - Error fetching history: history.html
+2024-12-28 12:56:50,469 - INFO - Request processed in 0.00 seconds
+2024-12-28 12:56:50,469 - INFO - 127.0.0.1 - - [28/Dec/2024 12:56:50] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2024-12-28 13:03:34,101 - INFO - Request processed in 0.02 seconds
+2024-12-28 13:03:34,101 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:34] "GET / HTTP/1.1" 200 -
+2024-12-28 13:03:34,139 - INFO - Request processed in 0.01 seconds
+2024-12-28 13:03:34,139 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 13:03:34,179 - INFO - Request processed in 0.04 seconds
+2024-12-28 13:03:34,179 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:34] "GET /static/script.js HTTP/1.1" 200 -
+2024-12-28 13:03:34,223 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:03:34,223 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:34] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:03:39,032 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:03:39,033 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:39] "GET / HTTP/1.1" 200 -
+2024-12-28 13:03:39,061 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:03:39,062 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:03:39,062 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 13:03:39,062 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 13:03:39,084 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:03:39,084 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:39] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:03:40,499 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:03:40,499 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:40] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:03:52,651 - INFO - Request processed in 7.28 seconds
+2024-12-28 13:03:52,651 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:52] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 13:03:55,871 - INFO - Request processed in 0.01 seconds
+2024-12-28 13:03:55,871 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:55] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:03:56,924 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:03:56,924 - INFO - 127.0.0.1 - - [28/Dec/2024 13:03:56] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 13:04:00,761 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:04:00,761 - INFO - 127.0.0.1 - - [28/Dec/2024 13:04:00] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:04:04,827 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:04:04,827 - INFO - 127.0.0.1 - - [28/Dec/2024 13:04:04] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:04:27,003 - INFO -  * Detected change in 'd:\\webscraping-main\\webscraping-main\\test_request.py', reloading
+2024-12-28 13:04:27,006 - INFO -  * Detected change in 'd:\\webscraping-main\\webscraping-main\\web_scraping.py', reloading
+2024-12-28 13:04:30,743 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 13:04:34,320 - WARNING -  * Debugger is active!
+2024-12-28 13:04:34,321 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 13:52:28,897 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 13:52:28,897 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 13:52:28,904 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-28 13:52:32,062 - WARNING -  * Debugger is active!
+2024-12-28 13:52:32,066 - INFO -  * Debugger PIN: 143-445-543
+2024-12-28 13:52:33,902 - INFO - Request processed in 0.02 seconds
+2024-12-28 13:52:33,903 - INFO - 127.0.0.1 - - [28/Dec/2024 13:52:33] "GET / HTTP/1.1" 200 -
+2024-12-28 13:52:33,931 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:52:33,932 - INFO - 127.0.0.1 - - [28/Dec/2024 13:52:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 13:52:33,935 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:52:33,935 - INFO - 127.0.0.1 - - [28/Dec/2024 13:52:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 13:52:34,037 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:52:34,037 - INFO - 127.0.0.1 - - [28/Dec/2024 13:52:34] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:52:56,049 - INFO - Request processed in 7.06 seconds
+2024-12-28 13:52:56,049 - INFO - 127.0.0.1 - - [28/Dec/2024 13:52:56] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 13:53:05,763 - INFO - Request processed in 0.02 seconds
+2024-12-28 13:53:05,763 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:05] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:53:07,374 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:07,374 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:07] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 13:53:09,398 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:09,398 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:09] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:53:10,126 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:10,126 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:10] "GET /api/analytics HTTP/1.1" 200 -
+2024-12-28 13:53:50,070 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:50,070 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:50] "[36mGET / HTTP/1.1[0m" 304 -
+2024-12-28 13:53:50,098 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:50,098 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 13:53:50,098 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:50,098 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 13:53:50,133 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:50,134 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:50] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:53:51,350 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:51,350 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:51] "[36mGET / HTTP/1.1[0m" 304 -
+2024-12-28 13:53:51,381 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:51,381 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-28 13:53:51,381 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:51,381 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-12-28 13:53:51,402 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:53:51,402 - INFO - 127.0.0.1 - - [28/Dec/2024 13:53:51] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:54:01,397 - INFO - Request processed in 5.98 seconds
+2024-12-28 13:54:01,397 - INFO - 127.0.0.1 - - [28/Dec/2024 13:54:01] "POST /generate_content HTTP/1.1" 200 -
+2024-12-28 13:54:18,033 - INFO - Request processed in 0.01 seconds
+2024-12-28 13:54:18,033 - INFO - 127.0.0.1 - - [28/Dec/2024 13:54:18] "GET /history HTTP/1.1" 200 -
+2024-12-28 13:54:19,206 - INFO - Request processed in 0.00 seconds
+2024-12-28 13:54:19,206 - INFO - 127.0.0.1 - - [28/Dec/2024 13:54:19] "GET /api/analytics HTTP/1.1" 200 -

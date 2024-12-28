@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History</title>
+    <link rel="stylesheet" href="/static/style.css"> <!-- Link to your CSS file -->
+    <script defer src="/static/script.js"></script> <!-- Link to your JavaScript file -->
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <i class="fas fa-history"></i> <!-- FontAwesome icon -->
+            <h1>History</h1>
+        </div>
+        <ul class="nav-links">
+            <li data-section="home">Home</li>
+            <li data-section="history" class="active">History</li>
+            <li data-section="analytics">Analytics</li>
+        </ul>
+    </div>
+    
+    <div class="main-content">
+        <section id="history" class="section active">
+            <div class="section-header">
+                <h2>History of Generated Content</h2>
+                <p>View and manage your generated content history.</p>
+            </div>
+            
+            <div class="url-input-container">
+                <div class="input-wrapper">
+                    <input type="text" id="historySearch" placeholder="Search history...">
+                    <button id="historySort">Sort</button>
+                </div>
+            </div>
+
+            <div class="history-list" id="historyList">
+                <!-- History items will be dynamically populated here -->
+            </div>
+        </section>
+    </div>
+
+    <div id="toastContainer" class="toast-container"></div>
+
+    <script>
+        // JavaScript to handle loading history, searching, and sorting will go here
+    </script>
+</body>
+</html>
